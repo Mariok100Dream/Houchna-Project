@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Firebase
+firebase/
+
+# Environment variables
+.env
